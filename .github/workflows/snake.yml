@@ -1,4 +1,3 @@
-# Salin-tempel kode ini ke dalam kotak editor
 name: Generate Snake Animation
 
 on:
@@ -9,14 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # INI ADALAH PERBAIKANNYA:
+    # Kita memberi izin pada 'job' ini untuk 'menulis' ke repositori Anda
+    permissions:
+      contents: write 
+      
     steps:
       - uses: actions/checkout@v2
 
       - uses: Platane/snk@v3
         with:
           github_user_name: dhevol
+          # Ini akan membuat file .svg dengan tema gelap
           outputs: dist/snake.svg?palette=github-dark
 
+      # Langkah ini akan menyimpan file snake.svg ke repositori Anda
       - name: Push Snake SVG
         run: |
           git config --global user.name "github-actions[bot]"
