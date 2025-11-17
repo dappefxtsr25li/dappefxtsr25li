@@ -60,29 +60,32 @@
 
 ---
 
-### 📚 Frameworks & Libraries
-<br>
+### 🛠️ My Tech Stack
+
+#### ⚙️ Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/n8n-1F1F1F?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
   <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </p>
 
----
-
-### 🛠️ Tools & Others
-<br>
+#### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+#### 🧩 Tools & Others
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-1F1F1F?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Proxmox-E5007A?style=for-the-badge&logo=proxmox&logoColor=white">
   <img src="https://img.shields.io/badge/Laragon-0099D9?style=for-the-badge&logo=laragon&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 
