@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://assets.website-files.com/5f8ef7a1599a09172087e5b5/634f59333ce54a4f891b0f20_Terraria_Logo.png" width="200" alt="Terraria Logo">
+  <br>
+  <h1 align="center">Greetings, Traveler! I am <span style="color:#00FFFF;">Dhevany Fadilah Ibrahim</span></h1>
+  <p align="center">Ready to craft and explore the digital world!</p>
+</p>
+
+
+---
+
+
 ### 💡 About Me
 * I'm a junior **Backend Developer**.
 * I consider myself a **hungry learner** and **amateur attacker**, always ready to tackle a new challenge.
