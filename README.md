@@ -5,14 +5,29 @@
   <p align="center">Ready to craft and explore the digital world!</p>
 </p>
 
-
 ---
-
 
 ### 💡 About Me
 * I'm a junior **Backend Developer**.
 * I consider myself a **hungry learner** and **amateur attacker**, always ready to tackle a new challenge.
 * I am currently **diving deeper** to strengthen my development skills.
+
+---
+
+### 📬 Connect with Me
+<br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhevany-f-i-a2988638b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/kodhev_?igsh=M3M0azdnb2V3c3gx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:dhevanyfadilah01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+<br>
 
 ---
 
@@ -72,16 +87,4 @@
 
 ---
 
-### 📬 Connect with Me
-<br>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhevany-f-i-a2988638b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/kodhev_?igsh=M3M0azdnb2V3c3gx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:dhevanyfadilah01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+
