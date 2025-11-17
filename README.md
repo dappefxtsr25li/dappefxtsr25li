@@ -1,26 +1,14 @@
-## Hi there 👋
-##💡 About Me
-## I'm a junior Backend Developer.
-## I consider myself a hungry learner and amateur attacker, always ready to tackle a new challenge.
-## I am currently diving deeper to strengthen my development skills.
+### 💡 About Me
 
-## 📚 What I'm working with:
-## 🌐 Full-Stack: Building apps with HTML, CSS, JS, PHP, Laravel, and Express.js (using clean architecture).
-## 🔐 APIs & Auth: Integrating APIs, securing endpoints with JWT & Google OAuth, and managing MySQL databases.
-## 📱 Mobile & AI: Creating cross-platform apps with Flutter & Dart.
-## 🤖 Automation: Implementing AI projects (like bots) and workflow automation (n8n).
+* I'm a junior **Backend Developer**.
+* I consider myself a **hungry learner** and **amateur attacker**, always ready to tackle a new challenge.
+* I am currently **diving deeper** to strengthen my development skills.
 
-<!--
-**dhevol/dhevol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 📚 What I'm working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌐 **Full-Stack:** Building apps with HTML, CSS, JS, PHP, Laravel, and Express.js (using *clean architecture*).
+* 🔐 **APIs & Auth:** Integrating APIs, securing endpoints with JWT & Google OAuth, and managing MySQL databases.
+* 📱 **Mobile & AI:** Creating cross-platform apps with Flutter & Dart.
+* 🤖 **Automation:** Implementing AI projects (like bots) and workflow automation (n8n).
