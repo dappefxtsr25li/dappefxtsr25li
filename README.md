@@ -16,11 +16,11 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEANDA&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhevol&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=USERNAMEANDA&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=dhevol&theme=dark" alt="GitHub Streak Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEANDA&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhevol&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 ---
