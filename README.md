@@ -50,16 +50,16 @@
   
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhevol&theme=dark&bg_color=0D1117&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=dhevol&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=dhevol&theme=dark&background=0D1117&hide_border=false" alt="Streak Stats">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=dhevol&theme=neon&hide_border=false" alt="Streak Stats">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhevol&theme=dark&bg_color=0D1117&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhevol&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </td>
   </tr>
   
