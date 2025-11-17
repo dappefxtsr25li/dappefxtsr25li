@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://assets.website-files.com/5f8ef7a1599a09172087e5b5/634f59333ce54a4f891b0f20_Terraria_Logo.png" width="200" alt="Terraria Logo">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/api?font=Press+Start+2P&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Dhevany+Fadilah+Ibrahim;A+Junior+Backend+Developer...;Ready+to+craft+and+explore!" alt="Typing SVG">
+</p>
   <br>
   <h1 align="center">Greetings, Traveler! I am <span style="color:#00FFFF;">Dhevany Fadilah Ibrahim</span></h1>
   <p align="center">Ready to craft and explore the digital world!</p>
@@ -87,7 +89,9 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
+
 <br>
+
 ---
 
 
