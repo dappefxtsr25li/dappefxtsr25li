@@ -40,16 +40,16 @@
   
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhevol&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=dhevol&theme=dark&bg_color=0D1117&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=dhevol&theme=dark&hide_border=false" alt="Streak Stats">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=dhevol&theme=dark&background=0D1117&hide_border=false" alt="Streak Stats">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhevol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhevol&theme=dark&bg_color=0D1117&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </td>
   </tr>
   
@@ -61,9 +61,7 @@
   
   <tr>
     <td colspan="2" align="center">
-      <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=dhevol&icon=0&color=0" alt="Visit Count">
-      </a>
+      <img src="https://komarev.com/ghpvc/?username=dhevol&style=flat-square&color=blue" alt="Profile Visit Count">
     </td>
   </tr>
 </table>
