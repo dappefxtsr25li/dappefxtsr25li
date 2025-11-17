@@ -13,15 +13,24 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats (Cyberpunk Style)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEANDA&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=USERNAMEANDA&theme=dark" alt="GitHub Streak Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEANDA&layout=compact&theme=dark" alt="Top Languages">
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dhevol&show_icons=true&theme=dark&bg_color=1a1b26&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=00FFFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=dhevol&background=1a1b26&fire=FF00FF&ring=00FFFF&currStreakNum=FF00FF&sideNums=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&border=00FFFF" alt="GitHub Streak Stats">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhevol&layout=compact&theme=dark&bg_color=1a1b26&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=00FFFF&hide_progress=true" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 ---
 
