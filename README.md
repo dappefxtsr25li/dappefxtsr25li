@@ -18,8 +18,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhevol&show_icons=true&theme=dark&bg_color=1a1b26&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=00FFFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=dhevol&theme=dark&hide_border=true&background=1a1b26&currstreak_bg=FF00FF&fire=FF00FF&side_main=00FFFF&side_second=A020F0&stroke=00FFFF&ring=00FFFF&text_color=FFFFFF" alt="GitHub Streak Stats">
+  
+  <img src="https://streak-stats.demolab.com?user=dhevol&background=1a1b26&fire=FF00FF&ring=00FFFF&currStreakNum=FF00FF&sideNums=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&border=00FFFF" alt="GitHub Streak Stats">
   <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhevol&layout=compact&theme=dark&bg_color=1a1b26&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=00FFFF&hide_progress=true" alt="Top Languages">
 </p>
 
