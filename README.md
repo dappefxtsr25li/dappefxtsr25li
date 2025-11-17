@@ -9,6 +9,15 @@
 
 ---
 
+### 📚 What I'm working with:
+* 🌐 **Full-Stack:** Building apps with HTML, CSS, JS, PHP, Laravel, and Express.js (using *clean architecture*).
+* 🔐 **APIs & Auth:** Integrating APIs, securing endpoints with JWT & Google OAuth, and managing MySQL databases.
+* 📱 **Mobile & AI:** Creating cross-platform apps with Flutter & Dart.
+* 🤖 **Automation:** Implementing AI projects (like bots) and workflow automation (n8n).
+
+
+---
+
 ### 📬 Connect with Me
 <br>
 <p align="left">
@@ -23,14 +32,6 @@
   </a>
 </p>
 <br>
-
----
-
-### 📚 What I'm working with:
-* 🌐 **Full-Stack:** Building apps with HTML, CSS, JS, PHP, Laravel, and Express.js (using *clean architecture*).
-* 🔐 **APIs & Auth:** Integrating APIs, securing endpoints with JWT & Google OAuth, and managing MySQL databases.
-* 📱 **Mobile & AI:** Creating cross-platform apps with Flutter & Dart.
-* 🤖 **Automation:** Implementing AI projects (like bots) and workflow automation (n8n).
 
 ---
 
