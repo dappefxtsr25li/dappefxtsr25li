@@ -35,6 +35,15 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+
 ### 📊 GitHub Stats & Trophies
 
 <table align="center" style="border: none; width: 100%;">
