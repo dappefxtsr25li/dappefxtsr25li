@@ -8,36 +8,29 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # INI ADALAH PERBAIKANNYA:
-    # Kita memberi izin pada 'job' ini untuk 'menulis' ke repositori Anda
     permissions:
       contents: write 
-      
     steps:
       - uses: actions/checkout@v2
 
       - uses: Platane/snk@v3
         with:
           github_user_name: dappefxtsr25li
-          # PENJELASAN WARNA:
-          # color_snake: #FF00FF (Magenta/Pink Ular)
-          # color_dots: 
-          #   #161b22 (Background Gelap)
-          #   #00FFFF (Level 1 - Cyan Terang -> DULU GELAP, SEKARANG TERANG)
-          #   #00FFFF (Level 2 - Cyan Terang)
-          #   #00FFFF (Level 3 - Cyan Terang)
-          #   #00FFFF (Level 4 - Cyan Terang)
+          
+          # PALET WARNA GRADASI (Agar beda tebal/tipis):
+          # 1. Background: #161b22 (Hitam GitHub)
+          # 2. Level 1 (Sedikit): #1f4f5e (Biru Laut Gelap - Redup tapi kelihatan)
+          # 3. Level 2: #00899e (Biru Laut Sedang)
+          # 4. Level 3: #00c7d4 (Biru Neon)
+          # 5. Level 4 (Banyak): #00ffff (Biru Neon Paling Terang)
           
           outputs: |
-            dist/snake.svg?color_snake=#FF00FF&color_dots=#161b22,#00FFFF,#00FFFF,#00FFFF,#00FFFF
+            dist/snake.svg?color_snake=#FF00FF&color_dots=#161b22,#1f4f5e,#00899e,#00c7d4,#00ffff
 
-            
-      # Langkah ini akan menyimpan file snake.svg ke repositori Anda
       - name: Push Snake SVG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Generate snake animation" || exit 0
+          git commit -m "Update snake colors & data" || exit 0
           git push
