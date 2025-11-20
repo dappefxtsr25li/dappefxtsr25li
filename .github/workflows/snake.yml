@@ -19,7 +19,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: dhevol
+          github_user_name: dappefxtsr25li
           # Ini akan membuat file .svg dengan tema gelap
           outputs: dist/snake.svg?palette=github-dark
 
