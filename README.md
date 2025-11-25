@@ -42,31 +42,14 @@
 ---
 
 
-### 📊 GitHub Stats & Trophies
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dappefxtsr25li&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=dappefxtsr25li&theme=neon&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dappefxtsr25li&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table align="center" style="border: none; width: 100%;">
-  
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dappefxtsr25li&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=dappefxtsr25li&theme=neon&hide_border=false" alt="Streak Stats">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dappefxtsr25li&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-    </td>
-  </tr>
-  
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=dappefxtsr25li&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-    </td>
-  </tr>
-</table>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dappefxtsr25li&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -84,6 +67,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
 </p>
 
 #### 🖥️ Backend & API
@@ -155,4 +139,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dappefxtsr25li&style=flat-square&color=blue" alt="Profile Visit Count">
-</p>w
+</p>
+
+.
