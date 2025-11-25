@@ -8,29 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # INI ADALAH PERBAIKANNYA:
-    # Kita memberi izin pada 'job' ini untuk 'menulis' ke repositori Anda
     permissions:
       contents: write 
-      
     steps:
       - uses: actions/checkout@v2
 
       - uses: Platane/snk@v3
         with:
           github_user_name: dappefxtsr25li
-          # Kita ubah warnanya biar kontras:
-          # color_snake: Warna Ular (Misal: Biru Neon / Cyberpunk)
-          # color_dots: Warna kotak (Makanan) dari level rendah ke tinggi
-          outputs: |
-            dist/snake.svg?color_snake=#00FFFF&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      # Langkah ini akan menyimpan file snake.svg ke repositori Anda
       - name: Push Snake SVG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Generate snake animation" || exit 0
+          git commit -m "Update snake colors & data" || exit 0
           git push
