@@ -16,16 +16,6 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: dappefxtsr25li
-          
-          # PALET WARNA GRADASI (Agar beda tebal/tipis):
-          # 1. Background: #161b22 (Hitam GitHub)
-          # 2. Level 1 (Sedikit): #1f4f5e (Biru Laut Gelap - Redup tapi kelihatan)
-          # 3. Level 2: #00899e (Biru Laut Sedang)
-          # 4. Level 3: #00c7d4 (Biru Neon)
-          # 5. Level 4 (Banyak): #00ffff (Biru Neon Paling Terang)
-          
-          outputs: |
-            dist/snake.svg?color_snake=#FF00FF&color_dots=#161b22,#1f4f5e,#00899e,#00c7d4,#00ffff
 
       - name: Push Snake SVG
         run: |
