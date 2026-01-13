@@ -1,4 +1,4 @@
-### Hello World! IM Dhevany Fadilah Ibrahim(brochola) 🖐️
+### Hello World! IM Dhevany Fadilah Ibrahim 🖐️
 
 ---
 
