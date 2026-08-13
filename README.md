@@ -21,12 +21,15 @@
 ### 📬 Connect with Me
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhevany-f-i-a2988638b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/kodhev_?igsh=M3M0azdnb2V3c3gx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/dhevany-f-i-a2988638b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/kodhev_?igsh=M3M0azdnb2V3c3gx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/31juduehkr7uunrd6rztefsjbqpi?si=a2c95696598045bd">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
 </p>
 <br>
 
