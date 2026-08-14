@@ -30,6 +30,12 @@
   <a href="https://open.spotify.com/user/31juduehkr7uunrd6rztefsjbqpi?si=a2c95696598045bd">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
+  <a href="https://www.roblox.com/share?code=dbc14d847a26fe4a87acdeb223b084a4&type=Profile&source=ProfileShare&stamp=1786687710082">
+    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
+  </a>
+  <a href="https://discordapp.com/users/1247390485119631372">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </p>
 <br>
 
